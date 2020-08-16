@@ -5,6 +5,8 @@ This Matrix Calculator project In Python is a simple project developed using Pyt
 # About the project
 This simple project is in Python. Talking about the features of this system, this python application is developed to calculate matrix form to any operations and it is also capable of handling some sort of exceptions. Also, this cmd based project is pretty simple so that the user won’t get any difficulties while working on it.
 
+![matrices](https://user-images.githubusercontent.com/44707673/90329350-b5343080-dfc1-11ea-8743-7a5549c7179e.png)
+ 
 # How To Run The Project?
 To run this project, you must have installed Python on your PC. After downloading the project, follow the steps below:
 
