@@ -1,4 +1,4 @@
-# Project: Matrix Calculator In Python With Source Code
+# Project: Matrix Calculator In Python 
 
 This Matrix Calculator project In Python is a simple project developed using Python. The project is for solving the matrix calculations. So, the user can select any option they want in the calculations. Hence, the user can use a matrix calculator from this application. The project file has a python script (main.py). This is a simple command-line project which is very easy to understand and use.
 
